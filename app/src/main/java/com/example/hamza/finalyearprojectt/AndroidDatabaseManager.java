@@ -30,7 +30,7 @@ import android.widget.TableRow.LayoutParams;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.hamza.finalyearproject.DBHelper;
+import com.example.hamza.finalyearprojectt.DBHelper;
 
 public class AndroidDatabaseManager extends Activity implements OnItemClickListener {
 

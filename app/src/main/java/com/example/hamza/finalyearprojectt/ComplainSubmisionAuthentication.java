@@ -4,7 +4,7 @@ import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import com.example.hamza.finalyearproject.R;
+import com.example.hamza.finalyearprojectt.R;
 
 public class ComplainSubmisionAuthentication extends AppCompatActivity {
 
